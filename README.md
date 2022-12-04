@@ -1,0 +1,1 @@
+TManagerPointer is a record for creating objects and managing them, freeing them from memory when they are no longer being used. The record is encapsulated in a component for project organization purposes.

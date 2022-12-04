@@ -1,0 +1,10 @@
+/dcus
+/Sample
+/src/__history
+/Sample/__history
+/Sample/__recovery
+/Sample/ModelSupport_ManagerPointerTest
+/Sample/Win32
+*.dproj.local
+*.tvsconfig
+*.identcache
